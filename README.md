@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Rohan 👋
 
 ### 🚀 Data Science | Machine Learning | AI | Python
